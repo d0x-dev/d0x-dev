@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img src="./banner.svg" alt="Developer Banner" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=2">
+  <img src="./banner.svg?v=2" alt="Developer Banner" width="100%"/>
 </picture>
 
 </div>
@@ -16,24 +16,23 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./lanyard.svg" alt="Developer ID badge" width="330"/>
+<img src="./lanyard.svg?v=2" alt="Dark boy ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
 
-### 💻 My Projects Portfolio
+### 💻 My Projects
 
 | 🚀 Project | 🛠 Tech | ⭐ |
 |:---|:---:|:---:|
-| [🌟 Project Name 1](https://github.com/your-username/project-1) | `React` `Tailwind` `Node.js` | 15 |
-| [🎨 Project Name 2](https://github.com/your-username/project-2) | `HTML` `CSS` `JS` | 10 |
-| [⚡ Project Name 3](https://github.com/your-username/project-3) | `Python` `Django` | 8 |
-| [📱 Project Name 4](https://github.com/your-username/project-4) | `React Native` | 5 |
-| [🌐 Project Name 5](https://github.com/your-username/project-5) | `TypeScript` `Next.js` | 2 |
+| [🎵 AirBeats](https://github.com/d0x-dev/AirBeats) | `Kotlin` | 35 |
+| [🎧 Air-Beats](https://github.com/d0x-dev/Air-Beats) | `HTML` | 2 |
+| [📻 OpenTune](https://github.com/d0x-dev/OpenTune) | `Kotlin` | 0 |
+| [⏱️ uptime-monitor](https://github.com/d0x-dev/uptime-monitor) | `HTML` | 0 |
 
 <br/>
 
-> 💡 *"Talk is cheap. Show me the code."*
+> 📍 *India* | 🏢 *StormX* | 🌐 [darkboy.pro](https://darkboy.pro)
 
 </td>
 </tr>
@@ -42,5 +41,7 @@
 <br/>
 
 <div align="center">
-  <!-- Feel free to add github stats or other badges here -->
+  <a href="https://github.com/d0x-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=d0x-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </a>
 </div>
