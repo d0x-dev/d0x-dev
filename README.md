@@ -41,7 +41,46 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/d0x-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=d0x-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
+
+### 📊 GitHub Stats & Graphs
+
+<img src="./stats.svg" alt="GitHub Stats" height="185"/>
+<img src="./langs.svg" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=d0x-dev&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=d0x-dev&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./trophies.svg" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/d0x-dev/d0x-dev/output/github-snake-pink.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:tstarkx103@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/d0x-dev"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://darkboy.pro"><img src="https://img.shields.io/badge/Website-e879f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=d0x-dev&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.* 🚀
+
 </div>
