@@ -26,9 +26,9 @@
 | 🚀 Project | 🛠 Tech | ⭐ |
 |:---|:---:|:---:|
 | [🎵 AirBeats](https://github.com/d0x-dev/AirBeats) | `Kotlin` | 35 |
-| [🎧 Air-Beats](https://github.com/d0x-dev/Air-Beats) | `HTML` | 2 |
-| [📻 OpenTune](https://github.com/d0x-dev/OpenTune) | `Kotlin` | 0 |
-| [⏱️ uptime-monitor](https://github.com/d0x-dev/uptime-monitor) | `HTML` | 0 |
+| [🎧 AirFlix](https://github.com/d0x-dev/AirFlix) | `TypeScript` | 2 |
+| [📻 Edge](https://github.com/d0x-dev/Edge) | `Kotlin + Python` | 0 |
+| [⏱️ Telecloud](https://github.com/d0x-dev/Telecloud) | `Kotlin + Python` | 0 |
 
 <br/>
 
