@@ -63,6 +63,11 @@
 
 <br/><br/>
 
+<!-- ?? Contribution Activity Graph -->
+<img src="https://raw.githubusercontent.com/d0x-dev/d0x-dev/output/github-activity-graph.svg" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
 ### 🐍 Watch the snake eat my contributions
 
 <img src="https://raw.githubusercontent.com/d0x-dev/d0x-dev/output/github-snake-pink.svg" alt="Contribution snake"/>
