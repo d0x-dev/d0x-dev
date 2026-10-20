@@ -78,7 +78,7 @@
 
 <a href="mailto:tstarkx103@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/d0x-dev"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://gravatar.com/kittywinged08204a8ab0.card"><img src="https://img.shields.io/badge/Gravatar-8b5cf6?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar profile"/></a>
+[Gravatar profile card](https://gravatar.com/kittywinged08204a8ab0.card)
 <a href="https://darkboy.pro"><img src="https://img.shields.io/badge/Website-e879f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 <br/><br/>
