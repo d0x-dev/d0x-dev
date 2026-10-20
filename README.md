@@ -78,7 +78,19 @@
 
 <a href="mailto:tstarkx103@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/d0x-dev"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-[Gravatar profile card](https://gravatar.com/kittywinged08204a8ab0.card)
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://gravatar.com/kittywinged08204a8ab0.card"><img src="https://2.gravatar.com/avatar/d5f71268ac2eb64f6b97893c644953f4ae3bacfc0f61f74db2299e459803e217?s=256" width="112" height="112" alt="Darkboy Gravatar avatar"/></a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://gravatar.com/kittywinged08204a8ab0.card">Darkboy</a></h3>
+      <p>📍 Srinagar · DxV Studios</p>
+      <p><a href="https://github.com/d0x-dev">GitHub</a> · <a href="https://t.me/TheDarkAgain">Telegram</a></p>
+      <a href="https://gravatar.com/kittywinged08204a8ab0.card">View Gravatar profile →</a>
+    </td>
+  </tr>
+</table>
 <a href="https://darkboy.pro"><img src="https://img.shields.io/badge/Website-e879f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 <br/><br/>
